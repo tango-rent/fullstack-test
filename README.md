@@ -86,7 +86,7 @@ Desarrollar un scraper en Python3 que permita obtener información de esta [pág
 
 
 ## Entrega
-El resultado se debe enviar por correo a carlos.veliz@tango.rent y se debe entregar en un archivo .zip, junto con todas las indicaciones para ser revisado.
+El resultado se debe enviar por correo a carlos.veliz@tango.rent y se debe entregar en un archivo .zip, junto con todas las indicaciones (en el archivo README.md) para ser revisado. Junto con esto se deben especificar las librerías utilizadas (requirements.txt para Python).
 
 Si el resultado es una entrega parcial de lo solicitado, se debe indicar qué funciona y qué no.
 
