@@ -2,7 +2,7 @@
 
 ## Desafío Frontend:
 
-Crear una página en HTML utilizando Vue.js o React.js para diseñar un calendario, que recibe como parametro un archivo json con la siguiente estructura:
+Crear una página en HTML utilizando [Vue.js v3](https://vuejs.org/) o [React.js v18] para diseñar un calendario, que recibe como parametro un archivo json con la siguiente estructura:
 
 ```
 [
